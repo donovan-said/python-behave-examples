@@ -17,6 +17,12 @@ __Reference__:
 
 # CHANGELOG
 
+## [0.2.0]
+
+### Added
+
+* A new behave section for my blog post "Python behave, Dipping Our Toes In"
+
 ## [0.1.0]
 
 ### Added
