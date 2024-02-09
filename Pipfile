@@ -12,5 +12,6 @@ pipfile = "*"
 [dev-packages]
 pylint = "==2.17.1"
 pytest = "==6.2.5"
+requests = "==2.31.0"
 behave = "==1.2.6"
 pre-commit = "==3.5.0"
